@@ -1,1 +1,1 @@
-# MachineLearning (online) Basic
+# MachineLearning (online course)
